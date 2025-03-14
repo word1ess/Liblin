@@ -459,6 +459,9 @@ body {
   }
 }
 @media only screen and (max-width: 1440px) {
+  .info__subtitle {
+    font-size: 32px;
+  }
   .footer__item a {
     color: #fff;
     display: block;
