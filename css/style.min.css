@@ -465,11 +465,14 @@ body {
   .info__subtitle {
     font-size: 28px;
   }
+  .footer__item {
+    flex: none;
+  }
   .footer__item a {
     color: #fff;
     display: block;
-    font-size: 18px;
-    max-width: 240px;
+    font-size: 14px;
+    max-width: 100%;
     word-break: break-all;
   }
   .footer__item a:not(:last-child) {
@@ -487,7 +490,7 @@ body {
     margin: -1rem 0px -1rem auto;
   }
   .footer__copy {
-    font-size: 18px;
+    font-size: 14px;
   }
 }
 @media only screen and (max-width: 1280px) {
