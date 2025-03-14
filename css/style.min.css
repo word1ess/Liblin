@@ -440,8 +440,6 @@ body {
     color: #fff;
     display: block;
     font-size: 20px;
-    max-width: 240px;
-    word-break: break-all;
   }
   .footer__item a:not(:last-child) {
     margin-bottom: 0.5rem;
